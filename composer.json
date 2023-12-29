@@ -16,6 +16,7 @@
             "Shasoft\\Reflection\\": "classes"
         }
     },
+    "minimum-stability": "dev",
     "require": {
         "nikic/php-parser": "^5"
     },
