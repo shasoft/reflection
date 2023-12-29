@@ -1,0 +1,28 @@
+{
+    "name": "shasoft/reflection",
+    "type": "library",
+    "description": "Package for reflection php",
+    "keywords": [
+        "reflection",
+        "friend",
+        "php",
+        "dump",
+        "debug",
+        "php"
+    ],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Shasoft\\Reflection\\": "classes"
+        }
+    },
+    "require": {
+        "nikic/php-parser": "^5"
+    },
+    "authors": [
+        {
+            "name": "Shabanov Valera",
+            "email": "shasoft_reflection@shasoft.com"
+        }
+    ]
+}
